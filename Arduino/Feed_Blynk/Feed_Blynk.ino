@@ -9,8 +9,8 @@ char auth[] = "sFaO5Jv5HNjP7E7a6XQj6xD09LsIK--B";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "TP_LINK";
-char pass[] = "dodinternetu";
+char ssid[] = "";
+char pass[] = "";
 
 
 #define Feeder 32    // Output pins - feeder relejs
