@@ -23,8 +23,8 @@ const int pwmResolution = 8;
 const int pwmLedChannelTFT = 0;
 
 
-const char* ssid     = "TP_LINK";       ///EDIIIT
-const char* password = "dodinternetu"; //EDI8IT
+const char* ssid     = "";       ///EDIIIT
+const char* password = ""; //EDI8IT
 String town="Riga";              //EDDIT
 String Country="LV";                //EDDIT
 const String endpoint = "http://api.openweathermap.org/data/2.5/weather?q="+town+","+Country+"&units=metric&APPID=";
