@@ -18,8 +18,8 @@
 
 #include <WiFi.h>
 #include <WiFiClient.h>
-const char ssid[] = "TP_LINK"; // WiFi name
-const char password[] = "dodinternetu"; // WiFi password
+const char ssid[] = ""; // WiFi name
+const char password[] = ""; // WiFi password
 
 #include <BlynkSimpleEsp32.h>
 char auth[] = "G89q9q0DFdT431UK_BTpnOO_ZBgu3hhl"; // Blynk Authentication Token
