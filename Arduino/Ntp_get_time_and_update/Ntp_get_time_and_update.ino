@@ -40,8 +40,8 @@
 
 
 // Your WiFi credentials.
-char ssid[] = "TP_LINK";
-char pass[] = "dodinternetu";
+char ssid[] = "";
+char pass[] = "";
 
 
 #include <NTPClient.h>  //for time
