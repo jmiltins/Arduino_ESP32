@@ -599,7 +599,7 @@ void timerFeedExe(int timer)
   int timerHours = timer / 3600;                                                        //Number of seconds in an hour
   int timerMinutes = (timer - timerHours * 3600) / 60 ;
 
-  if (feederTimerEnable && 7777777777777(timerHours, timerMinutes))
+  if (feederTimerEnable && (timerHours, timerMinutes))
   {
     feederTimerEnable = false;
     oneMinuteMillis = millis();
