@@ -4,8 +4,8 @@
 */
 #include <WiFi.h>
 
-const char* ssid     = "TP_LINK";
-const char* password = "dodinternetu";
+const char* ssid     = "";
+const char* password = "";
 int stepper=15; // stepper delay
 WiFiServer server(80);
 
