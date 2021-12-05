@@ -37,9 +37,9 @@ int seconds = 0;
 
 // Blynk data start
 
-#define BLYNK_TEMPLATE_ID "TMPL1NwORGjZ"
+#define BLYNK_TEMPLATE_ID ""
 #define BLYNK_DEVICE_NAME "Guntara Feed"
-char auth[] = "sFaO5Jv5HNjP7E7a6XQj6xD09LsIK--B";
+char auth[] = "";
 BlynkTimer timer;
 
 int feedButtonState = 1;
@@ -64,8 +64,8 @@ int timer3Minutes = 0;
 //Blynk data end
 
 // Your WiFi credentials.
-char ssid[] = "TP_LINK";
-char pass[] = "dodinternetu";
+char ssid[] = "";
+char pass[] = "";
 
 // Weight data start
 const byte hx711_data_pin = 12; // define weight data and clk pins
