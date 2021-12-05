@@ -16,8 +16,8 @@
 char auth[] = "sFaO5Jv5HNjP7E7a6XQj6xD09LsIK--B";
 
 // Your WiFi credentials.
-char ssid[] = "TP_LINK";
-char pass[] = "dodinternetu";
+char ssid[] = "";
+char pass[] = "";
 
 int foodDose = 0;
 int feedTimes = 0;                                    // Cik x barots
